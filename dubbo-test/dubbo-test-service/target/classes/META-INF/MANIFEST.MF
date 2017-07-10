@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: dengsong
+Build-Jdk: 1.8.0_101
+Specification-Title: dubbo-test-provider
+Specification-Version: 0.0.1-SNAPSHOT
+Specification-Vendor: Alibaba
+Implementation-Title: dubbo-test-provider
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.dubbo
+Implementation-Vendor: Alibaba
+Created-By: Maven Integration for Eclipse
+
